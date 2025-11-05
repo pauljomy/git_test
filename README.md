@@ -1,1 +1,1 @@
-Hello Odin
+I'm trying to learn git now
